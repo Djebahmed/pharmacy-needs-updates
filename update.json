@@ -1,8 +1,7 @@
-
 {
   "packageName": "com.pharmacy.needs",
-  "version": "0.7.3",
-  "versionCode": 11,
+  "version": "0.7.4",
+  "versionCode": 12,
   "minAndroidApi": 24,
-  "apkUrl": "https://github.com/Djebahmed/pharmacy-needs-updates/releases/download/v0.7.3/pharmacy-needs-0.7.3.apk"
+  "apkUrl": "https://github.com/Djebahmed/pharmacy-needs-updates/releases/download/v0.7.4/app-release.apk"
 }
